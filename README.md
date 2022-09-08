@@ -2,6 +2,8 @@ Hey! I'm @caffeintatedcoda (Joel Hayward) 👋
 
 I'm a shiny new developer with a wealth of job experience!
 
+I currently Live in Auckland< New Zealand.
+
 I have just completed the first part of my journey into the world of web development, having completed a bootcamp with Mission Ready HQ
 as a FullStack Developer. 🚀
 
