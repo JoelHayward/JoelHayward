@@ -14,8 +14,10 @@ and over in London, teach first aid and Diabetes management respectively.
 
 I am looking forward to introducing my passion for health and wellbeing into the tech industry.
 
-[My Twitter](https://twitter.com/caffeinatedcoda)
-[GitHub](https://github.com/JoelHayward) as @caffeinatedcoda (you are here)
+*[My Twitter](https://twitter.com/caffeinatedcoda)
+*[GitHub](https://github.com/JoelHayward) as @caffeinatedcoda (you are here)
+*[LinkedIn](https://www.linkedin.com/in/joel-hayward-020831124/)
+*Blog coming soon 🛠
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
