@@ -7,7 +7,7 @@ I currently Live in Auckland< New Zealand.
 I have just completed the first part of my journey into the world of web development, having completed a bootcamp with Mission Ready HQ
 as a FullStack Developer. 🚀
 
-Through the Mission Ready HQ course I have learn HTML, CSS, JavaScript, MySQL and React. But this has been the tip of the ice burg, we have touched on 
+Through the Mission Ready HQ course I have learn HTML, CSS, JavaScript, MySQL, NodeJs and React. But this has been the tip of the ice burg, we have touched on 
 cloud systems, AI, DevOps, CICD and much more! 🤓
 
 This year has been a year of change, I have come from many years experience in the health and fitness industry. 💪 
