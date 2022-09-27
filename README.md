@@ -13,8 +13,19 @@
 <img src="https://komarev.com/ghpvc/?username=JoelHayward&style=flat-square&color=blue" alt="number of account views"/>
 </div>
 
+<div align="center">
+Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <div>
+  I'm Joel (@caffeintatedcoda) 👋
+  </div>
+</div>
 
-Hey! I'm @caffeintatedcoda (Joel Hayward) 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
+
 
 I'm a shiny new developer with a wealth of job experience!
 
