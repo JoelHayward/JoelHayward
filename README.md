@@ -16,32 +16,58 @@
 <div align="center">
 Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <div>
-  I'm Joel (@caffeintatedcoda) 👋
+  I'm Joel (@caffeintatedcoda)
   </div>
 </div>
+
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
+---
 
 
 I'm a shiny new developer with a wealth of job experience!
 
-I currently Live in Auckland< New Zealand.
+I currently Live in Auckland, New Zealand.
 
 I have just completed the first part of my journey into the world of web development, having completed a bootcamp with Mission Ready HQ
 as a Developer. 🚀
 
-Through the Mission Ready HQ course I have learn HTML, CSS, JavaScript, MySQL, NodeJs and React. But this has been the tip of the ice burg, we have touched on 
-cloud systems, AI, DevOps, CICD and much more! 🤓
+Through the Mission Ready HQ course I have learn alot. But this has been the tip of the ice burg, we have touched onmany different areas of technology and I am looking forward to learning much more. 🤓
 
 This year has been a year of change, I have come from many years experience in the health and fitness industry. 💪 
 I have worked with many people, helping to change their health and lives. I have worked one on one with clients and I have presented course here in NZ 
 and over in London, teach first aid and Diabetes management respectively.
 
 I am looking forward to introducing my passion for health and wellbeing into the tech industry.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GoogleCloud" **alt="Git" width="40" height="40"/>
+</div>
+
+
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 
 * [My Twitter](https://twitter.com/caffeinatedcoda)
 * [GitHub](https://github.com/JoelHayward) as @caffeinatedcoda (you are here)
