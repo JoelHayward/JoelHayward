@@ -72,7 +72,8 @@ Other areas of interest I am exploring further:
 </div>
   
   <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelHayward&layout=compact&theme=vision-friendly-dark)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoelHayward&theme=dark)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelHayward&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   
   
