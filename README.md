@@ -72,18 +72,7 @@ Other areas of interest I am exploring further:
 </div> 
   
   ---
-  
-  <div align="center">
-  I'm am not an expert, but I want to be.
-  </div>
-    <div align="center">
- - Ben Nicholson
-  </div>
-  
-  ---
-  
-  
-  
+ 
   
 * [My Twitter](https://twitter.com/caffeinatedcoda)
 * [GitHub](https://github.com/JoelHayward) as @caffeinatedcoda (you are here)
